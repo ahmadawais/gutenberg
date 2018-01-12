@@ -29,6 +29,7 @@ These mockups are all subject to change and feedback.
 **Formatting**
 
 ![Hover](mockups/Formatting, Hover.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fahmadawais%2Fgutenberg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fahmadawais%2Fgutenberg?ref=badge_shield)
 
 ![Click](mockups/Formatting, Click.png)
 
@@ -73,3 +74,7 @@ With regards to specific changes to the design, the details & execution (like co
 Grab the Sketch file so you don't have to start from scratch:
 
 **<a href="mockups/editor.sketch">Download, Updated Feb. 23rd.</a>**
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fahmadawais%2Fgutenberg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fahmadawais%2Fgutenberg?ref=badge_large)
